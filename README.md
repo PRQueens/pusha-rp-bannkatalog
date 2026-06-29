@@ -1,116 +1,122 @@
-# 📖 Pusha RP – Bannkatalog
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Pusha RP Bannkatalog</title>
 
-> **Version:** 1.0  
-> **Gültigkeit:** Internes Teamdokument
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #8b0000;
+    color: white;
+    padding: 30px;
+}
 
----
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
 
-# §1 Allgemeines
+section {
+    background: rgba(0,0,0,0.35);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 12px;
+}
 
-Der Bannkatalog dient als **Richtlinie** für das gesamte Team. Die aufgeführten Strafen sind Orientierungswerte und sollen ein einheitliches Vorgehen gewährleisten.
+h2 {
+    border-bottom: 1px solid white;
+    padding-bottom: 5px;
+}
 
-Jede Sanktion sollte nach Möglichkeit mit **Clips, Screenshots oder Logs** belegt werden.
+ul {
+    line-height: 1.8;
+}
+</style>
 
----
+</head>
 
-# §2 Team-Ermessen
+<body>
 
-Jeder Fall ist individuell.
+<h1>📖 Pusha RP Bannkatalog</h1>
 
-Das Team darf vom Bannkatalog abweichen, wenn die Situation dies rechtfertigt.
+<section>
+<h2>§1 Allgemeines</h2>
+<p>
+Der Bannkatalog dient als Richtlinie für das gesamte Team.
+Jeder Fall wird individuell entschieden und basiert auf Team-Ermessen.
+</p>
+</section>
 
-### Eine höhere Strafe ist möglich bei:
-- Vorsätzlichem Regelbruch
-- Wiederholungstätern
-- Mehreren Regelverstößen gleichzeitig
-- Fehlender Einsicht
-- Lügen im Support
+<section>
+<h2>§2 Team-Ermessen</h2>
+<ul>
+<li>Jeder Fall wird individuell bewertet</li>
+<li>Wiederholungstäter erhalten härtere Strafen</li>
+<li>Einsicht kann Strafen reduzieren</li>
+<li>Teamleitung hat immer das letzte Wort</li>
+</ul>
+</section>
 
-### Eine geringere Strafe ist möglich bei:
-- Erstverstoß
-- Geringer Auswirkung
-- Sofortiger Einsicht
-- Kooperativem Verhalten
+<section>
+<h2>§3 Leichte Verstöße</h2>
+<ul>
+<li>FailRP</li>
+<li>Soundboard Abuse</li>
+<li>OOC im RP</li>
+<li>Leichte Beleidigungen</li>
+<li>Trolling</li>
+</ul>
+</section>
 
-> [!IMPORTANT]
-> Die Teamleitung sowie das Management haben im Zweifelsfall das letzte Wort und können jederzeit vom Bannkatalog abweichen.
+<section>
+<h2>§4 Mittlere Verstöße</h2>
+<ul>
+<li>Metagaming</li>
+<li>PowerRP</li>
+<li>Combat Logging</li>
+<li>Copbaiting</li>
+<li>NLR (New Life Rule) Missachtung</li>
+</ul>
+</section>
 
----
+<section>
+<h2>§5 Schwere Verstöße</h2>
+<ul>
+<li>RDM</li>
+<li>VDM</li>
+<li>Cheats / Mod-Menüs</li>
+<li>Safezone Abuse</li>
+<li>Server-Sabotage</li>
+<li>Streamsniping</li>
+</ul>
+</section>
 
-# §3 Leichte Verstöße
+<section>
+<h2>§6 Permanente Banns</h2>
+<ul>
+<li>Cheats / Hacks</li>
+<li>Bannumgehung</li>
+<li>Doxxing</li>
+<li>DDOS / Drohungen</li>
+<li>Rassismus</li>
+<li>Sexismus</li>
+<li>Frauenfeindlichkeit</li>
+<li>Echtgeldhandel (RMT)</li>
+</ul>
+</section>
 
-| Verstoß | Strafe |
-|:--|:--|
-| OOC im RP | Verwarnung → 6 Std. → 1 Tag |
-| FailRP | Verwarnung → 12 Std. → 2 Tage |
-| Trolling | Verwarnung → 1 Tag → 3 Tage |
-| Missbräuchliche Nutzung eines Soundboards | Kick → 12 Std. → 2 Tage |
-| Beleidigungen | Verwarnung → 1 Tag → 3 Tage |
+<section>
+<h2>§7 Support-Verstöße</h2>
+<ul>
+<li>Support verlassen</li>
+<li>Team belügen</li>
+<li>Beweise fälschen</li>
+<li>Team beleidigen</li>
+</ul>
+</section>
 
----
-
-# §4 Mittlere Verstöße
-
-| Verstoß | Strafe |
-|:--|:--|
-| Copbaiting | 1 → 3 → 7 Tage |
-| Combat Logging | 3 → 7 → 14 Tage |
-| PowerRP | 3 → 7 → 14 Tage |
-| Metagaming | 3 → 7 → 30 Tage |
-| Verstoß gegen die New-Life-Regel (NLR) | 3 → 7 → 14 Tage |
-
----
-
-# §5 Schwere Verstöße
-
-| Verstoß | Strafe |
-|:--|:--|
-| RDM | 7–14 Tage |
-| VDM | 7–14 Tage |
-| Safezone-Abuse | 7–14 Tage |
-| Streamsniping | 30 Tage |
-| Schwere oder diskriminierende Beleidigungen | 14–30 Tage |
-
----
-
-# §6 Permanente Sperren
-
-Folgende Verstöße führen in der Regel zu einem **permanenten Bann**:
-
-- Cheats oder Mod-Menüs
-- Trigger- oder Event-Abuse
-- Duping
-- Echtgeldhandel (RMT)
-- Bannumgehung
-- Doxxing
-- DDOS-Drohungen
-- Server-Sabotage
-- Rassismus
-- Sexismus
-- Frauenfeindlichkeit (Misogynie)
-- Wiederholte schwere Regelverstöße
-
----
-
-# §7 Support-Verstöße
-
-| Verstoß | Strafe |
-|:--|:--|
-| Support verlassen | 12 Std. |
-| Team belügen | 7 Tage |
-| Beweise fälschen | 30 Tage |
-| Team beleidigen | 7–30 Tage |
-
----
-
-# §8 Schlussbestimmung
-
-> [!NOTE]
-> Dieser Bannkatalog dient als Orientierung und ersetzt keine Einzelfallentscheidung.
-
-Das **Management** sowie die **Teamleitung** behalten sich das Recht vor, Sanktionen zu erhöhen, zu reduzieren oder in Ausnahmefällen von diesem Bannkatalog abzuweichen, sofern dies zur Wahrung eines fairen und hochwertigen Roleplays erforderlich ist.
-
----
-
-> [!TIP]
-> **Grundsatz:** Fairness, Neutralität und ein einheitliches Vorgehen stehen bei jeder Entscheidung an erster Stelle.
+</body>
+</html>
